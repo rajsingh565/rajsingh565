@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsingh565&label=Profile%20views&color=0e75b6&style=flat" alt="rajsingh565" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/rajsingh_565?t=rfeonyp_lyafm8zodfzjda&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/rajsingh_565?t=rfeonyp_lyafm8zodfzjda&s=08?logo=twitter&style=for-the-badge" alt="https://x.com/rajsingh_565?t=rfeonyp_lyafm8zodfzjda&s=08" /></a> </p>
-
 - 🔭 I’m currently working on **Text Summarization App with Gradio**
 
 - 🌱 I’m currently learning **Flask, Django, Neural Network**
