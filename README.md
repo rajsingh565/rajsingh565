@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flask, Django, Neural Network**
 
-- 🤝 I’m looking for help with **End-To-End Gemini project**
+- 🤝 I’m looking for help with **End-To-End projects**
 
 - 💬 Ask me about **Python, Machine Learning, AWS**
 
