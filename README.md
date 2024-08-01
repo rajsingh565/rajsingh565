@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsingh565&label=Profile%20views&color=0e75b6&style=flat" alt="rajsingh565" /> </p>
-
-- 
-
+ 
 - 🌱 I’m currently learning **Generative AI**
 
 - 🤝 I’m looking for help with **End-To-End projects**
