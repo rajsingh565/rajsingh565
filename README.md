@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajsingh565&label=Profile%20views&color=0e75b6&style=flat" alt="rajsingh565" /> </p>
 
-- 🔭 I’m currently working on **Text Summarization App with Gradio**
+- 
 
-- 🌱 I’m currently learning **Flask, Django, Neural Network**
+- 🌱 I’m currently learning **Generative AI**
 
 - 🤝 I’m looking for help with **End-To-End projects**
 
-- 💬 Ask me about **Python, Machine Learning, AWS**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning**
 
 - 📫 How to reach me **rajsingh403391@gmail.com**
 
